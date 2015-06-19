@@ -45,9 +45,9 @@ public class QuickStarter {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        System.out.println("The demo stopped!");
-        System.out.println("To more usage, try to customize your own Spider!");
-        System.exit(0);
+//        System.out.println("The demo stopped!");
+//        System.out.println("To more usage, try to customize your own Spider!");
+//        System.exit(0);
     }
 
     private static String readKey(String key) {
